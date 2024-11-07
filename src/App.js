@@ -5,7 +5,7 @@ import Login from './components/Login';
 import Register from './components/Register';
 import Dashboard from './components/Dashboard';
 import Navbar from './components/common/NavBar/Navbar';
-import BookmarkList from './components/BookmarkList';
+import BookmarkList from './components/common/BookMarkList/BookmarkList';
 
 function App() {
   return (
